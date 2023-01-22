@@ -1,4 +1,4 @@
-package com.test.mykafka.stream
+package com.legend.mykafka.stream
 
 /**
   * Created by  on 上午2:19.

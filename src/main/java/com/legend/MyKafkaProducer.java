@@ -1,4 +1,4 @@
-package com.test;
+package com.legend;
 
 /**
  * Created  on 下午3:27.

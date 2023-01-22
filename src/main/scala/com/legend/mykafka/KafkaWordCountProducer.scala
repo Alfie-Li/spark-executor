@@ -1,4 +1,4 @@
-package com.test.mykafka
+package com.legend.mykafka
 
 import java.util.HashMap
 

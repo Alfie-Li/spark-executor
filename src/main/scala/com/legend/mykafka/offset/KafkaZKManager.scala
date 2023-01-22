@@ -1,4 +1,4 @@
-package com.test
+package com.legend
 
 import kafka.common.TopicAndPartition
 import kafka.message.MessageAndMetadata

@@ -1,4 +1,4 @@
-package com.test.mykafka.offset
+package com.legend.mykafka.offset
 
 /**
   * Created  on 上午12:48.
