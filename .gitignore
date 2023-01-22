@@ -1,0 +1,6 @@
+target
+.idea
+checkpoint
+metastore_db
+*.log
+*.iml
